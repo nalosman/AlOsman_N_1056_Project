@@ -1,0 +1,22 @@
+body {
+  background-color: seashell;
+}
+h1 {
+  color: Gold;
+  font-family: monospace;
+  font-size: 36px;
+  margin: 50px 0 0 250px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 16px;
+  padding-left: 250px;
+  padding-top: 30px;
+
+
+}
